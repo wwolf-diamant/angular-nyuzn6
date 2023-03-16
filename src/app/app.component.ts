@@ -13,7 +13,7 @@ import { Component } from '@angular/core';
           <button kendoButton onclick="alert('tada')" icon="edit"></button>
         </ng-template>
         </kendo-textbox>
-        </kendo-label>
+        </kendo-label> 
     `,
 })
 export class AppComponent {
